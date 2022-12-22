@@ -36,7 +36,7 @@ def get_user(id):
     return jsonify(user=user)
 
 
-@app.route("/users", methods=["POST"])
+@app.route("/user", methods=["POST"])
 def create_user():
     user = db.insert_one({
         "name": request.json["name"],

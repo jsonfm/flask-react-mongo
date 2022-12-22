@@ -6,7 +6,7 @@ A fullstack application for managing users.
 python src/app.py
 ```
 
-### Mongo + Mongo-Express
+### 💚 Mongo + Mongo-Express
 ```
 docker-compose up -d
 ```
