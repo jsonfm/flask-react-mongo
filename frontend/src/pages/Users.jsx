@@ -146,9 +146,9 @@ export const Users = () => {
                         <table className="table table-striped">
                             <thead>
                                 <tr>
-                                    <th>ID</th>
                                     <th>Name</th>
-                                    <th>email</th>
+                                    <th>Email</th>
+                                    <th>Password</th>
                                     <th>Actions</th>
                                 </tr>
                             </thead>

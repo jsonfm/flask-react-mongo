@@ -2,8 +2,8 @@
     src="./docs/images/flaskreact.png"
 />
 
-### Python + React
-A fullstack application for managing users. Backend was developed with Flask y MongoDB and the Frontend, uses React with Bootstrap. 
+### 🐍⚛️ Python + React
+A fullstack application for managing users. Backend was developed with Flask and MongoDB, and the Frontend, uses React with Bootstrap. 
 
 
 ### ⚡️ Backend
@@ -32,7 +32,7 @@ npm run dev
 ```
 
 ### 💚 Mongo + Mongo-Express
-Mongo can be run with Docker. I also added Mongo Express as support.
+MongoDB can be run with Docker. I also added Mongo Express as support. Create an `.env` file, follwing `.env.example` and then run:
 ```
 docker-compose up -d
 ```
